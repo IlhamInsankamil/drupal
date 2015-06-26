@@ -1,0 +1,5 @@
+name = Mytheme
+description = My new sub-theme (CSS, phpTemplate, 3-col)
+
+base theme = garland
+core = 7.x
